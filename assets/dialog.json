@@ -1,0 +1,60 @@
+{
+    "fromMe": [{
+        "id": "0000",
+        "details": [
+            [
+                "💐💐💐今天要回家洛💐💐💐",
+                "我的宝贝，替你开心😘",
+                "🌹🌹🌹送你花花🌹🌹🌹",
+                "<pre>🍀🍀🍀🌹🍀🍀🍀🌹🍀🍀🍀 \n🍀🍀🌹🌹🌹🍀🌹🌹🌹🍀🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹🌹 \n🍀🌹🌹🌹🌹🌹🌹🌹🌹🌹🍀 \n🍀🍀🌹🌹🌹🌹🌹🌹🌹🍀🍀 \n🍀🍀🍀🌹🌹🌹🌹🌹🍀🍀🍀 \n🍀🍀🍀🍀🍀🌹🍀🍀🍀🍀🍀</pre>",
+                "会有十几天不见📅",
+                "我会想念你的😘",
+                "<img src='img/love-the-girl.jpg'>",
+                "你说你讨厌呆在家里，想出去旅游🤔",
+                "一场全国性的新肺炎😷",
+                "<img src='img/news-wuhanfeiyan.jpg'>",
+                "让咱们不得不做一次宅男宅女😂",
+                "<img src='img/separate.jpg'>",
+                "稍等一下🙂",
+                "其实我们也有一次在家度假的阳光浴😘",
+                "<img src='img/in-sichuan.jpg'>",
+                "跟你和豆豆在一起的那些日子📅",
+                "都让我感到十分想念📬",
+                "<img src='img/lucky-me.jpg'>",
+                "想念那次做的煲仔饭🍲",
+                "<img src='img/breakfast.jpg'>",
+                "想念跟你一起锻炼🛹",
+                "<img src='img/exercise-together.jpg'>",
+                "想念跟你一起出去玩的时候🚂",
+                "<img src='img/travel.jpg'>",
+                "希望我们可以到处拍照",
+                "<img src='img/foot.jpg'>",
+                "无论以后在家呆着💑",
+                "<img src='img/sleep.jpg'>",
+                "<img src='img/sleep2.jpg'>",
+                "还是带娃去玩😍",
+                "<img src='img/daiwa.jpg'>",
+                "我都想来无数遍😍",
+                "<img src='img/marry-me.jpg'>",
+                "爱你🌹"
+            ]
+        ],
+        "responses": [{
+            "content": "俺也爱你",
+            "nextAuthor": ["0001"]
+        }]
+    }, {
+        "id": "0001",
+        "details": [
+            [
+
+                "宝贝我好开心呀😁",
+                "我不会用承诺来诱骗你",
+                "我会努力去让你看见",
+                "<img src='img/baotang.jpg'>",
+                "回来给你煲汤"
+            ]
+        ]
+    }],
+    "fromUser": []
+}
